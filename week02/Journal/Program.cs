@@ -15,7 +15,7 @@ class Program
             Console.WriteLine("3. Save the journal to file");
             Console.WriteLine("4. Load the journal from file");
             Console.WriteLine("5. Quit");
-            Console.Write("Choose an option (1–5): ");
+            Console.Write("Choose an option (1-5): ");
 
             string choice = Console.ReadLine();
             Console.WriteLine();
@@ -40,7 +40,7 @@ class Program
                     Console.WriteLine("Goodbye!");
                     return;
                 default:
-                    Console.WriteLine("Invalid choice, please select 1–5.");
+                    Console.WriteLine("Invalid choice, please select 1-5.");
                     break;
             }
         }
