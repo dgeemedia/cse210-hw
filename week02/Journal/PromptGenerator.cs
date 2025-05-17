@@ -9,7 +9,7 @@ public static class PromptGenerator
         "How did I see the hand of the Lord in my life today?",
         "What was the strongest emotion I felt today?",
         "If I could do one thing over today, what would it be?"
-        // ← you can add more here
+        //  i can add more here
     };
 
     private static Random _random = new Random();
