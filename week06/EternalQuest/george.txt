@@ -1,0 +1,4 @@
+0
+SimpleGoal:Fintech Firm,A platform for investment purposes,100,False
+SimpleGoal:Finance,To be able to generate enough money to care for my family,100,False
+EternalGoal:Plan of Exhaltation,To able to work for the Lord in helping in bringing others unto Him,200
